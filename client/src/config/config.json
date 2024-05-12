@@ -1,0 +1,14 @@
+{
+  "development": {
+    "baseURL": "http://localhost:3000/"
+  },
+  "test": {
+    "baseURL": "http://localhost:3000/"
+  },
+  "production": {
+    "baseURL": "http://localhost:3000/"
+  },
+  "patentSiteUrl": "http://patent.kg",
+  "patentSearchSiteUrl": "http://base.patent.kg/trz.php",
+  "yndexApiKey": "65c34827-7128-4095-8262-f10d37602754"
+}
